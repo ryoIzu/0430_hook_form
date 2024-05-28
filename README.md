@@ -1,3 +1,6 @@
+# REact Hook Formの基本  
+・入力フォームのご入力検知・検証機能の学習  
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
