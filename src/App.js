@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
-import FormBasic from './Components/FormBasic';
+import FormYup from './Components/FormYup';
 
 function App() {
   return (
     <>
-      <FormBasic />
+      <FormYup />
     </>
   );
 }
